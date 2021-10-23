@@ -1,9 +1,9 @@
 # Scripts in other languages 
-### Python, SAS, Matlab, GoogleColab, etc
+### ![Alt text](https://github.com/UCSF-DEB-students/other_language_scripts/blob/b6c417db90dd8fe044ef42e5e0ecb3cbb1209537/python_logo.png "Python"), SAS, Matlab, GoogleColab, etc
 
 Welcome everyone! 
 
-This repository was created with student collaboration in mind. If you have a coding script in any language other than R or STATA (see those repositories) that you think might be useful for others please feel free to share here. 
+This repository was created with student collaboration in mind. If you have a coding script in any language other than [R](https://github.com/UCSF-DEB-students/r_scripts) or [STATA](https://github.com/UCSF-DEB-students/stata_scripts) (see those repositories) that you think might be useful for others please feel free to share here. 
 Here are a few tips to make it useful to others:
 
 * Describe the purpose and a brief background.   
